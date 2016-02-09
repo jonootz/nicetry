@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PageStyles xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <Page Name="First Right" Padding="20px" PageType="firstright" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BleedLeft="0.25in" Orientation="portrait" BleedBottom="0.25in" BleedTop="0.25in" BleedRight="0.25in" PageSize="Letter" BackgroundType="Solid" BackgroundColor="#000000">
         <Frame Flow="footer" Height="47px" Anchors="Left,Right,Bottom" Right="0px" Bottom="0px" X="0px" Y="817px" Width="624px" TextAlign="right" VerticalAlign="top">
@@ -13,7 +13,7 @@
                 </xhtml:html>
             </Content>
         </Frame>
-        <Frame X="0px" Y="61px" Width="624px" Height="85px" FlowIndex="2" Flow="body" Right="0px" Bottom="718px" Anchors="Left,Right,Top" />
+        <Frame X="0px" Y="17px" Width="624px" Height="85px" FlowIndex="2" Flow="body" Right="0px" Bottom="762px" Anchors="Left,Right,Top" />
         <Frame Flow="body" Y="240px" Bottom="67px" X="0px" Right="0px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Bottom" Width="624px" Height="557px" FlowIndex="3">
         </Frame>
     </Page>
@@ -46,7 +46,7 @@
                 </xhtml:html>
             </Content>
         </Frame>
-        <Frame X="156px" Y="407px" Width="312px" Height="51px" Flow="decoration" Right="156px" Bottom="406px" Anchors="Left,Right,Top,Bottom">
+        <Frame X="156px" Y="407px" Width="312px" Height="51px" Flow="decoration0" Right="156px" Bottom="406px" Anchors="Left,Right,Top,Bottom">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:body>
